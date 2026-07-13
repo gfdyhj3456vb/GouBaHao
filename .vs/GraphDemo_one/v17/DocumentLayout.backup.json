@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GraphDemo_one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|C:\\GraphDemo_one\\adjacency_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|solutionrelative:adjacency_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|C:\\GraphDemo_one\\adjacency_matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|solutionrelative:adjacency_matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|C:\\GraphDemo_one\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|C:\\GraphDemo_one\\adjacency_matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|solutionrelative:adjacency_matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|C:\\GraphDemo_one\\adjacency_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BD07BAB-2858-4F57-82CA-F3804CE30A5A}|GraphDemo_one.vcxproj|solutionrelative:adjacency_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\GraphDemo_one\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\GraphDemo_one\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-13T15:56:34.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adjacency_matrix.c",
+              "DocumentMoniker": "C:\\GraphDemo_one\\adjacency_matrix.c",
+              "RelativeDocumentMoniker": "adjacency_matrix.c",
+              "ToolTip": "C:\\GraphDemo_one\\adjacency_matrix.c",
+              "RelativeToolTip": "adjacency_matrix.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-13T15:55:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adjacency_list.c",
+              "DocumentMoniker": "C:\\GraphDemo_one\\adjacency_list.c",
+              "RelativeDocumentMoniker": "adjacency_list.c",
+              "ToolTip": "C:\\GraphDemo_one\\adjacency_list.c",
+              "RelativeToolTip": "adjacency_list.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-13T15:54:36.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adjacency_matrix.h",
+              "DocumentMoniker": "C:\\GraphDemo_one\\adjacency_matrix.h",
+              "RelativeDocumentMoniker": "adjacency_matrix.h",
+              "ToolTip": "C:\\GraphDemo_one\\adjacency_matrix.h",
+              "RelativeToolTip": "adjacency_matrix.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-13T15:53:40.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adjacency_list.h",
+              "DocumentMoniker": "C:\\GraphDemo_one\\adjacency_list.h",
+              "RelativeDocumentMoniker": "adjacency_list.h",
+              "ToolTip": "C:\\GraphDemo_one\\adjacency_list.h",
+              "RelativeToolTip": "adjacency_list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-13T15:52:04.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

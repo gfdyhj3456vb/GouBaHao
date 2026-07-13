@@ -1,0 +1,6 @@
+﻿  adjacency_list.c
+  adjacency_matrix.c
+  main.c
+  正在生成代码...
+C:\GraphDemo_one\src\main.c(92,21): warning C4013: “free”未定义；假设外部返回 int
+  GraphDemo_one.vcxproj -> C:\GraphDemo_one\x64\Debug\GraphDemo_one.exe
