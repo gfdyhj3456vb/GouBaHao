@@ -1,0 +1,23 @@
+﻿## 忽略 Visual Studio 临时文件和编译产物
+
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.ipch
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.opensdf
+*.sdf
+*.db
+*.cache
